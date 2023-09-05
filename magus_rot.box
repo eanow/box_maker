@@ -1,0 +1,9 @@
+#exterior dimensions
+exterior_long=178.8
+exterior_short=156.5
+bin_height=28
+#format for east/west is a list of lists of name and four points: eastern x,y, western x,y both y's should be the same
+#0,0 is bottom left, and +x is to the east, +y to the north
+east_west=[['A',0,73.8,156.5,73.8],['B',0,103.8,30.5,103.8],['C',0,133.8,30.5,133.8],]
+north_south=[['M',30.5,73.8,30.5,178.8],['N',99.2,0,99.2,73.8],]
+
